@@ -1,0 +1,7 @@
+.sidebar {
+  background-image: linear-gradient(
+    to bottom,
+    rgb(236, 22, 68),
+    rgb(59, 43, 181)
+  );
+}
